@@ -1,1 +1,2 @@
 "Example for text in file"
+"Insert some changes"
