@@ -1,2 +1,4 @@
 tokenForGithub.txt
 *.txt
+.myenv/
+
